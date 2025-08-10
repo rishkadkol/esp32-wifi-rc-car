@@ -15,6 +15,15 @@ This project demonstrates the design and fabrication of a Wi-Fi controlled RC ca
 
 ---
 
+---
+
+## How It Works
+1. The ESP32 hosts a local web server accessible over Wi-Fi.
+2. Motor driver receives commands from the ESP32.
+3. The 3D-printed chassis houses all electronics and ensures structural stability.
+
+---
+
 ## CAD Model
 ![CAD Model](assets/cad_design.jpeg)
 
@@ -28,11 +37,5 @@ This project demonstrates the design and fabrication of a Wi-Fi controlled RC ca
 ## Project Report
 [📄 Download PDF](assets/project_report.pdf)
 
----
-
-## How It Works
-1. The ESP32 hosts a local web server accessible over Wi-Fi.
-2. Motor driver receives commands from the ESP32.
-3. The 3D-printed chassis houses all electronics and ensures structural stability.
 
 
