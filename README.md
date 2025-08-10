@@ -26,7 +26,7 @@ This project demonstrates the design and fabrication of a Wi-Fi controlled RC ca
 ---
 
 ## Project Report
-[📄 Download PDF](assets/project-report.pdf)
+[📄 Download PDF](assets/project_report.pdf)
 
 ---
 
