@@ -4,7 +4,7 @@
 This project demonstrates the design and fabrication of a Wi-Fi controlled RC car using an ESP32 microcontroller. The chassis was custom-designed in SolidWorks and optimized for 3D printing.
 
 **Skills Used:** SolidWorks, 3D Printing, Embedded Systems, Arduino IDE  
-**Tools:** SolidWorks, ESP32, FDM 3D Printer, Fusion 360 (optional)  
+**Tools:** SolidWorks, ESP32, FDM 3D Printer
 
 ---
 
