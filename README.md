@@ -16,7 +16,7 @@ This project demonstrates the design and fabrication of a Wi-Fi controlled RC ca
 ---
 
 ## CAD Model
-![CAD Model](assets/cad.png)
+![CAD Model](assets/cad_design.jpeg)
 
 ---
 
@@ -35,8 +35,4 @@ This project demonstrates the design and fabrication of a Wi-Fi controlled RC ca
 2. Motor driver receives commands from the ESP32.
 3. The 3D-printed chassis houses all electronics and ensures structural stability.
 
----
 
-## Gallery
-![Side View](assets/side-view.png)  
-![Assembly](assets/assembly.png)  
